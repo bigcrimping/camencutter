@@ -43,5 +43,6 @@ The mould is very basic
 ![mould](https://github.com/bigcrimping/camencutter/assets/74270551/f7423079-69f6-42f8-a952-c750c1f0bfe7)
 
 
-3MF files for the mould are here: [https://github.com/bigcrimping/camencutter/tree/main/mechanics/platter_mould](https://github.com/bigcrimping/camencutter/tree/main/mechanics/cutter)
+3MF files for the mould are here: https://github.com/bigcrimping/camencutter/tree/main/mechanics/cutter
+
 3MF files for the mould are here: https://github.com/bigcrimping/camencutter/tree/main/mechanics/platter_mould
